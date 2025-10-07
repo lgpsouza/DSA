@@ -1,36 +1,36 @@
-Aqui está um modelo de README em Markdown para o seu repositório. Ele é atrativo, estruturado e passa a sensação de que o curso é dinâmico e cheio de projetos práticos.
+# Repositorio do curso de Python da DSA Academy
 
-````markdown
-# 🚀 Curso de Python – Estudos de Caso e Mini-Projetos
+O treinamento é totalmente gratuito e pode ser acessado pelo seguinte endereço:
 
-Este repositório reúne meus estudos e projetos desenvolvidos ao longo de um curso completo de Python.  
-O foco está em aplicações práticas de ciência de dados, inteligência artificial e desenvolvimento de software, sempre com projetos **mão na massa**.
+https://www.datascienceacademy.com.br/cursosgratuitos
 
-## 🎯 Objetivo
-Consolidar fundamentos de Python e avançar para aplicações reais em **Data Science**, **IA**, **Machine Learning** e **Desenvolvimento de Sistemas**, criando um portfólio público que demonstra evolução contínua.
-
----
+-----
 
 ## 📚 Conteúdo do Curso
 
 ### 🔹 Estudos de Caso
-1. **DSA AI Coder** – Criando um assistente de IA para programação em Python  
-2. **Fundamentos da Linguagem Python** aplicados à construção de um game  
-3. **Construindo um LLM do Zero** em Python  
+1. **DSA AI Coder** – O Estudo de Caso 1 apresenta a construção de um assistente de programação em Python que  combina  o  poder  dos  modelos  de  linguagem  da  plataforma  Groq  com  a  simplicidade  e interatividade  do  Streamlit. 
+   
+2. **Fundamentos da Linguagem Python** - Este estudo de caso é ideal para iniciantes, pois utiliza apenas os fundamentos ensinados: variáveis,  entrada  e  saída,  manipulação  de  strings  para  normalizar  a  entrada  dos  jogadores,  e ainda estruturas condicionais (if, elif, else) com operadores lógicos para determinar o vencedor.
+
+3. **Construindo um LLM do Zero**  - Em breve  
 
 ### 🔹 Mini-Projetos
-1. **Análise de Vendas** para loja de e-commerce com NumPy, Pandas e Matplotlib  
-2. **Sistema Bancário Full-Stack** com Programação Orientada a Objetos (POO)  
-3. **Análise Estatística de Dados** com NumPy  
-4. **Limpeza e Análise Exploratória** de dados com Pandas  
-5. **Modelagem Estatística e Interpretação** de resultados na análise de churn  
-6. **Modelo de Classificação para Análise de Sentimentos** com rastreamento no MLflow  
-7. **Projeto de Data Science de Ponta a Ponta**  
-8. **Deep Learning com PyTorch** para classificação de imagens  
-9. **Implementando Fluxo RAG** em Python para a área jurídica  
-10. **Agentes de IA para Planejamento de Viagens** com PydanticAI  
-11. **Bitcoin Robô Trading** com inteligência artificial em Python  
-12. **Data App Interativo** com Machine Learning para previsões em tempo real  
+# Mini projeto 01 -
+ Usando bibliotecas, como Pandas, NumPy e Matplotlib, o projeto busca consolidar, limpar e explorar os registros de vendas, revelando padrões ocultos e gerando visualizações claras 
+
+# Mini projeto 02 -
+O  Mini-Projeto2  é  uma  atividade  prática  com  o  objetivo  de  consolidar  os  principais conceitos de POO (Programação Orientada a Objetos) em um contexto próximo ao mundo real. 
+
+# Mini projeto 03 -
+Fundamentos de Linguagem Python -Do Básico a Aplicações de IAData Science Academywww.datascienceacademy.com.brEste  mini-projetotem  como  objetivo  mostrar,  de  forma  prática  e  aplicada,  como  a Linguagem Python e a biblioteca NumPy podem ser usadas para extrair valor de dados brutos em um contexto de negócio real, da área de Marketing
+
+# Mini projeto 04 -
+Fundamentos de Linguagem Python -Do Básico a Aplicações de IAData Science Academywww.datascienceacademy.com.brO  Mini-Projeto  4  tem  como  objetivotransformar  dados  transacionais  brutos  de  um  e-commerce em informações confiáveis e úteis para apoiar decisões estratégicas.
+
+# Em breve novos mini projetos...
+
+
 
 ---
 
@@ -39,30 +39,7 @@ Consolidar fundamentos de Python e avançar para aplicações reais em **Data Sc
 - **Bibliotecas**: NumPy, Pandas, Matplotlib, PyTorch, Scikit-Learn, MLflow, PydanticAI  
 - **Conceitos**: POO, Data Science, Deep Learning, RAG (Retrieval-Augmented Generation), Inteligência Artificial aplicada  
 
----
 
-## 📌 Como Usar Este Repositório
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-````
-
-2. Navegue até o projeto desejado.
-3. Instale as dependências (quando aplicável):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute os notebooks ou scripts conforme a documentação de cada projeto.
-
----
-
-## ✨ Por que este repositório é especial?
-
-Cada estudo de caso e mini-projeto é pensado para ir **além da teoria**, conectando Python com problemas reais.
-Aqui você vai encontrar desde **robôs traders** até **fluxos de IA para o setor jurídico**, passando por **modelos de classificação de imagens** e **análises de negócios em e-commerce**.
-
----
 
 ## 📬 Contato
 
