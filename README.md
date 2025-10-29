@@ -28,6 +28,19 @@ Fundamentos de Linguagem Python -Do Básico a Aplicações de IAData Science Aca
 # Mini projeto 04 -
 Fundamentos de Linguagem Python -Do Básico a Aplicações de IAData Science Academywww.datascienceacademy.com.brO  Mini-Projeto  4  tem  como  objetivotransformar  dados  transacionais  brutos  de  um  e-commerce em informações confiáveis e úteis para apoiar decisões estratégicas.
 
+# Mini projeto 05 -
+Este projeto tem como objetivo aplicar técnicas de análise estatística para identificar os principais  fatores  que  influenciam  o  churn  em  uma  empresa  fictícia  de  telecomunicações chamada Connecta Telecom. A partir de um conjunto de dados, o projeto conduz um processo completo  de  investigação,  desde  a  análise  exploratória  até  a  interpretação  dos  resultados obtidos com o modelo de Regressão Logística.
+Churn,  de  forma  simples,  é  a  taxa  de  cancelamento  ou  perda  de clientes  em  um determinado período
+
+# Mini projeto 06 -
+Modelo de Classificação para a analise de sentimentos.
+Fundamentos de Linguagem Python -Do Básico a Aplicações de IAData Science Academywww.datascienceacademy.com.brEste projeto tem como propósito desenvolver um modelo de classificação automática de sentimentos  em  textos,  aplicando  conceitos  fundamentais  de  Python,  Machine  Learning  e MLOps.
+
+## Mini projeto 07 -
+Deep Learning com PyTorch para a classificação de imagens
+Este  projeto  implementa  um  pipeline  completo  de  Deep  Learning  para  classificação  de imagens usando a biblioteca PyTorch. O objetivo central é construir e treinar uma Rede Neural Convolucional (CNN), chamada ConvNet,  para  classificar  corretamente  imagens  do  dataset  CIFAR-10,  que  é  composto  por  10 categorias (como "avião", "carro", "pássaro", etc.).
+
+
 # Em breve novos mini projetos...
 
 
